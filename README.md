@@ -16,10 +16,6 @@
 - **Backend:** SQLite3 database to manage and store news articles efficiently.
 
 ## Installation
-
-1. Clone the repository:
-   ```bash
-  git clone https://github.com/hiranmoyee/newsApp.git
 ## Install the dependencies:
 
 npm install
